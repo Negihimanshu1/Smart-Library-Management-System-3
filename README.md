@@ -1,4 +1,3 @@
-# Smart-Library-Management-System-3
 # 📚 Smart Library Management System
 
 A desktop library management app built with **Python (Tkinter)** and an **Oracle Database** backend. Business logic (issuing books, returning books, fine calculation, resetting data) is implemented in **PL/SQL** stored procedures and functions, while the Tkinter GUI handles user interaction.
